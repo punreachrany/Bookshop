@@ -1,0 +1,6 @@
+framework module Pods_Bookshop_Punreach {
+  umbrella header "Pods-Bookshop-Punreach-umbrella.h"
+
+  export *
+  module * { export * }
+}
